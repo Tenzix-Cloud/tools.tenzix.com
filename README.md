@@ -1,6 +1,6 @@
-# Networkingtools.net
+# tools.tenzix.com
 
-Networkingtools.net is an innovative suite of tools designed to aid system administrators and network professionals in their daily tasks. Featuring a range of utilities from advanced password and PIN generators to an IPv4 subnet calculator, this toolkit streamlines various networking operations.
+Tools is an suite of tools designed to aid system administrators and network professionals in their daily tasks. Featuring a range of utilities from advanced password and PIN generators to an IPv4 subnet calculator, this toolkit streamlines various networking operations.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Networkingtools.net is an innovative suite of tools designed to aid system admin
 
 ## Features
 
-Explore our tools at our public deployment [live demo](https://networkingtools.net). 
+Explore our tools at our public deployment [live demo](https://tools.tenzix.com). 
 
 Our current features include:
 - Password and PIN generator
@@ -49,13 +49,14 @@ A step-by-step series of examples that tell you how to get a development environ
 
 Our planned features include:
 
+- Move of Tenzix Troubleshooting Tools to this project.
 - Network tools like a ping tool, open port checker, and IP/WHOIS/BGP lookup.
 - Utilities such as a CRON calculator, data transfer calculator, and CHMOD helper.
 - Web tools like htaccess/htpasswd generator, character counter, and link shortener.
 
 ## Todo List
 
-- Refine the UI with pico.css.
+- Simplify Look
 - Development and integration of all planned tools.
 - Evaluating and potentially removing less useful features.
 - Adding validation to all forms.
@@ -80,8 +81,9 @@ We welcome contributions! If you have suggestions or want to contribute, please 
 
 ## Authors and Acknowledgments
 
-- **Matic Bončina** - [GitHub Profile](https://github.com/maticboncina)
-- **Gašper Dobrovoljc** - [GitHub Profile](https://github.com/gapidobri)
-- **Liam Allen** - [GitHub Profile](https://github.com/WulfGamesYT) (Retired Contributor)
+- **Francisco Oliveira** - [GitHub Profile](https://github.com/itsfranciscooli) (Tenzix Team)
+- **Matic Bončina** - [GitHub Profile](https://github.com/maticboncina) (Original Contributor)
+- **Gašper Dobrovoljc** - [GitHub Profile](https://github.com/gapidobri) (Original Contributor)
+- **Liam Allen** - [GitHub Profile](https://github.com/WulfGamesYT) (Original Contributor)
 
 Special thanks to all contributors and community members for their suggestions and ongoing support.

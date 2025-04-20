@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
 * {
     border: 0;
@@ -18,7 +18,7 @@ html {
 body {
     color: #fff;
     background: #303c48;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     min-height: 100vh;
     display: flex;
@@ -27,11 +27,11 @@ body {
     max-width: 1480px;
     width: 100%;
     margin: 0 auto;
-    box-shadow: 0 0 2000px #af2247;
+    box-shadow: 0 0 2000px #b3b3b3;
 }
 
 button {
-  background-color: #af2247;
+  background-color: #b3b3b3;
   border-radius: 8px;
   color: white;
 }
@@ -52,7 +52,7 @@ select {
 }
 
 #menu {
-    background: #af2247;
+    background: #414141;
     padding: 32px;
     display: flex;
     list-style: none;
@@ -160,7 +160,7 @@ input#passLen {
 }
 
 .buttons button:hover {
-    background: #b82e52;
+    background: #777777;
 }
 
 .options {
@@ -320,7 +320,7 @@ p.current-time span {
 }
 
 .home-tools i {
-    color: #ec3060;
+    color: #ffffff;
     font-size: 2rem;
 }
 
@@ -328,6 +328,20 @@ p.current-time span {
     font-weight: bold;
     text-transform: uppercase;
     flex: 1;
+}
+
+.fork-me{
+    width: 10vw;
+    text-align: center;
+    font-size: 1.5vh;
+    margin-bottom: 1vh;
+    font-weight: 800;
+    filter: opacity(50%);
+}
+
+.fork-me img{
+    max-width: 2vw;
+    filter: invert(100%);
 }
 
 @media only screen and (max-width: 560px) {
